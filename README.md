@@ -25,33 +25,7 @@ A modern web application for tracking and managing electricity usage. Built with
 - **Charts**: Chart.js
 - **Form Handling**: React Hook Form + Zod
 
-## Getting Started
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Vikhyat02GIT/TRUEUSAGE-WEB.git
-cd TRUEUSAGE-WEB
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Set up environment variables:
-Create a `.env` file in the root directory and add:
-```env
-DATABASE_URL="your_database_url"
-NEXTAUTH_SECRET="your_secret"
-NEXTAUTH_URL="http://localhost:3000"
-```
-
-4. Run the development server:
-```bash
-npm run dev
-```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Project Structure
 
@@ -93,9 +67,6 @@ app/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
